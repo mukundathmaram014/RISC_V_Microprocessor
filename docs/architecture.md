@@ -1,6 +1,6 @@
 ## Table of Contents
 - [ALU Architecture](#alu-architecture)
-- [microprocessor architecture](#microprocessor-architecute)
+- [Microprocessor architecture](#microprocessor-architecture)
 
 
 ## ALU Architecture
