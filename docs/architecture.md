@@ -6,7 +6,7 @@
 ## ALU Architecture
 
 <p align="center">
-  <img src="assets/alu.png" alt="ALU Implementation" width="600">
+  <img src="../assets/alu.png" alt="ALU Implementation" width="600">
 </p>
 
 <p align="center"><sub>ALU Implementation</sub></p>
@@ -24,7 +24,7 @@ As to how the flags of the ALU were generated, the carry out flag is generated b
 ## Microprocessor Architecture
 
 <p align="center">
-  <img src="assets/microprocessor.png" alt="Microprocessor Implementation" width="600">
+  <img src="../assets/microprocessor.png" alt="Microprocessor Implementation" width="600">
 </p>
 
 <p align="center"><sub>Microprocessor Implementation</sub></p>
