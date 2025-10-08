@@ -4,7 +4,7 @@ This project implements a RISC-V microprocessor in Verilog. It includes core mod
 
 ## 📘 Documentation
 
-For in-depth explanations of the architecture and design decisions, see the [**docs/**](./docs/) folder.
+For in-depth explanations of the architecture and interface, see the [**docs/**](./docs/) folder.
 
 ## Features
 
