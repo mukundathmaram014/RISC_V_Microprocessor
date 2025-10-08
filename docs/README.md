@@ -5,6 +5,7 @@ See the links below for a detailed overview of the microprocessor's architecture
 ## Sections
 
 - [Architecture](./architecture.md)
+- [Interface](./Interface.md)
 
 ---
 
